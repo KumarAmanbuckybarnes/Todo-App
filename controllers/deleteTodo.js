@@ -1,7 +1,7 @@
-//import th model
+
 const Todo = require("../models/Todo");
 
-//define route handler
+
 
 exports.deleteTodo = async(req,res) => {
     try {
